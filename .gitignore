@@ -2,4 +2,6 @@
 .vscode
 
 # Credentials
-/credentials/certificates
+/credentials/certificates/*.pem
+/credentials/certificates/*.pem.crt
+/credentials/certificates/*.pem.key
